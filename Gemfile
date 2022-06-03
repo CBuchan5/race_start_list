@@ -1,4 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
 gem 'capybara'
 gem 'puma'
@@ -8,4 +8,3 @@ gem 'ruby'
 gem 'sinatra'
 gem 'sinatra-reloader'
 gem 'webrick'
-
