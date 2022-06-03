@@ -9,7 +9,7 @@ class Startlist < Sinatra::Base
   end
 
   get('/') do
-    # "Hello!!!!"
+    erb :index
 end
 
 run! if app_file == $0
