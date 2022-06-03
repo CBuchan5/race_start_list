@@ -20,4 +20,22 @@ So I can get an idea of profit,
 I want to see how much I've made with ticket sales.
 ```
 
+## Setting the program up
 
+ - Fork and then clone this repositry.
+ - Install any gems by running the following code: 
+ ```
+ bundle 
+```
+## To use the program
+ - Make sure gems are installed (follow steps above)
+ - Run the following command to get the server up and running
+ ```
+ rackup
+ ```
+ - Open your browser and copy the address below in
+ ```
+  http://localhost:9292/
+ ```
+
+ - Call the file 
