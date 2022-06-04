@@ -9,11 +9,8 @@ class Startlist < Sinatra::Base
   end
 
   get('/') do
+    @startlist = Race_startlist.all
     erb :index
-  end
-
-  get('/startlist') do
-     @startlist= Race_startlist.all
   end
 
   run! if app_file == $0

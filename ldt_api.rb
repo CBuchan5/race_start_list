@@ -1,4 +1,6 @@
-@startlist_hash = [
+class Ldt_api
+  # def list_data
+startlist_hash = [
   {
     "id": '61a8da5719f642320668e667',
     "bookingDate": '2021-12-02T14:38:15.688Z',
@@ -2990,3 +2992,4 @@
     "ticketTitle": 'Half Marathon'
   }
 ]
+end
