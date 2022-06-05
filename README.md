@@ -20,10 +20,6 @@ So that I can see all relivent information
 I want to be able to view my start list.
 
 As an event organiser,
-So I can only my startlist entries,
-I want to be able to filter through all entries.
-
-As an event organiser,
 So I can get an idea of profit,
 I want to see how much I've made with ticket sales.
 ```
