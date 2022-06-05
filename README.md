@@ -4,6 +4,14 @@ Before an event occurs, an event organiser needs to have a list of all the parti
 
 When someone makes a booking through our site, we need to collect all their relevant information and display it to our event organisers in a clear, easy to read format.
 
+## Technologies
+
+ - Ruby
+ - Sinatra
+ - Capybara
+ - Rspec
+ - JSON
+
 ## User Stories
 
 ```
@@ -37,5 +45,3 @@ I want to see how much I've made with ticket sales.
  ```
   http://localhost:9292/
  ```
-
- - Call the file 
